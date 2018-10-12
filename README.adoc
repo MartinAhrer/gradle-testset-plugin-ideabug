@@ -1,0 +1,7 @@
+= README
+
+.Compile and run test
+[source,bash]
+----
+ ./gradlew clean integrationTest --console=verbose
+----
