@@ -3,5 +3,5 @@
 .Compile and run test
 [source,bash]
 ----
- ./gradlew clean integrationTest --console=verbose
+ ./gradlew clean test integrationTest --console=verbose
 ----
